@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "ceefcce50ef335a99b27b7a32666cad5"
+	name: "NachitoMC141#ceefcce5"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: {
+		0000000000000001: 1730150629068L
+		794E170CB4D38D75: 1730150747254L
+	}
+	completed: {
+		0000000000000000: 1730150754913L
+		0000000000000001: 1730150754913L
+		794E170CB4D38D75: 1730150754913L
+	}
+	claimed_rewards: { }
+	player_data: {
+		ceefcce50ef335a99b27b7a32666cad5: {
+			can_edit: 1b
+		}
+	}
+}

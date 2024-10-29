@@ -1,0 +1,17 @@
+{
+	id: "ceefcce5-0ef3-35a9-9b27-b7a32666cad5"
+	type: "player"
+	player_name: "NachitoMC141"
+	ranks: {
+		ceefcce5-0ef3-35a9-9b27-b7a32666cad5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NachitoMC141"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
